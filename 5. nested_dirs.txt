@@ -1,0 +1,5 @@
+# There is a file:
+# ./.../  /. .the flag.txt
+# Show its contents on the screen.
+# 
+cat "./.../  /. .the flag.txt"
